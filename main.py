@@ -1,5 +1,5 @@
-print('hello')
+print('ftui')
 
-a = 7
+a = 4
 b = 8
 c = 9
